@@ -163,6 +163,7 @@ Kesinlikle listedeki her şeyi sormaya çalışmayın. (Mülakat yapan kişinin 
 # Diğer Kaynaklar
 
 - [Joel Test](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)'te sorularınız için daha fazla ilham bulabilirsiniz
+- [Julia Evans](https://jvns.ca/blog/2013/12/30/questions-im-asking-in-interviews/)'da sorularınız için daha fazla ilham bulabilirsiniz
 
 # Lisans
 
